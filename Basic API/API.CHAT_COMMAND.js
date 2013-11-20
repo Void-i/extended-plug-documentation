@@ -7,6 +7,6 @@ function onChatCommand (message)
 {
  
   if (message == '/lock') API.moderateLockBooth(true); 
-  //This passes the data from the chat command into and if statement, locking the booth if the message is '/lock'.
+  //This passes the data from the chat command into an if statement, locking the booth if the message is '/lock'.
   
 }
