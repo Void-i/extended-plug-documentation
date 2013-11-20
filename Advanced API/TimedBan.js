@@ -2,7 +2,6 @@
  //!!THE UNBAN API FUNCTION IS BROKEN AT THE MOMENT!!//
 //////////////////////////////////////////////////////
 
-//We'll be doing this example in the form of a room bot
 //Create the function which will ban the user and set the timer to unban them
 function moderateTimedBan(who, time, reason) {
 	//Ban the user
